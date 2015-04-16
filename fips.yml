@@ -1,0 +1,11 @@
+# fips project yml file
+---
+
+# external dependencies
+imports:
+    fips-win-store-angle:
+        git:    https://github.com/wpbest/fips-win-store-angle.git
+
+
+
+
